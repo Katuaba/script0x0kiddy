@@ -11,8 +11,8 @@
 
 ## 📜 Сертификаты:
 
-- ✅ [Pre-Security Certificate – TryHackMe](https://tryhackme-cert-link-here.com)  
-- ✅ [CyberSecurity 101 – TryHackMe](https://tryhackme-cert-link-here.com)
+- ✅ [Pre-Security Certificate – TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BMRMLNLN5T.pdf)
+- ✅ [CyberSecurity 101 – TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QRQKCYRQND.pdf)
 
 <sub>*(Добавь ссылки на сертификаты, если у тебя есть публичные URL)*</sub>
 
