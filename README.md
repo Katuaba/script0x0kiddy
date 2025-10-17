@@ -24,12 +24,9 @@
 - 📚 Продвинутый [курс](https://tryhackme.com/path/outline/jrpenetrationtester?sharerId=65a4200b5ed506cf13e3fc63) на TryHackMe
 - 🧪 Экспериментирую с виртуальными машинами и тестовой средой
 
-## 📊 GitHub Stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
-
 ## 🔗 Полезные ссылки:
 - [TryHackMe профиль](https://tryhackme.com/p/script0x0kiddy)
+- 
 
 ---
 
