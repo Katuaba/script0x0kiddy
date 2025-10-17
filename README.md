@@ -14,17 +14,14 @@
 - ✅ [Pre-Security Certificate – TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BMRMLNLN5T.pdf)
 - ✅ [CyberSecurity 101 – TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QRQKCYRQND.pdf)
 
-<sub>*(Добавь ссылки на сертификаты, если у тебя есть публичные URL)*</sub>
 
 ## 🛠️ Навыки, которые я развиваю:
 - Основы Linux и командная строка
 - Основы сетевой безопасности (TCP/IP, порты, протоколы)
-- Скриптинг на Python для автоматизации задач
 - Введение в OSINT, криптографию и социальную инженерию
 
 ## 🌱 Сейчас учусь:
-- 📚 Продвинутый курс на TryHackMe
-- 💻 Участвую в CTF-челленджах
+- 📚 Продвинутый [курс](https://tryhackme.com/path/outline/jrpenetrationtester?sharerId=65a4200b5ed506cf13e3fc63) на TryHackMe
 - 🧪 Экспериментирую с виртуальными машинами и тестовой средой
 
 ## 📊 GitHub Stats:
@@ -32,9 +29,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
 
 ## 🔗 Полезные ссылки:
-- [TryHackMe профиль](https://tryhackme.com/p/yourusername)
-- [LinkedIn (если есть)](https://linkedin.com/in/yourusername)
-- [Блог или сайт (если есть)](https://yourwebsite.com)
+- [TryHackMe профиль](https://tryhackme.com/p/script0x0kiddy)
 
 ---
 
