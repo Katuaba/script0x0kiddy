@@ -1,7 +1,6 @@
-# script0x0kiddy
 # Привет, я script0x0kiddy 👋
 
-Я — разработчик, который увлекается [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Python](https://www.python.org/), и [React](https://reactjs.org/).
+Я — beginner, в мире Cyber Security
 
 ## Технологии:
 - ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=flat&logo=javascript&logoColor=%23F7DF1E)
